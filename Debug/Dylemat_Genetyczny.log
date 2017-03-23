@@ -1,3 +1,18 @@
-﻿  Dylemat_Genetyczny.cpp
-  Dylemat_Genetyczny.vcxproj -> C:\Users\Dom\documents\visual studio 2015\Projects\Dylemat_Genetyczny\Debug\Dylemat_Genetyczny.exe
-  Dylemat_Genetyczny.vcxproj -> C:\Users\Dom\documents\visual studio 2015\Projects\Dylemat_Genetyczny\Debug\Dylemat_Genetyczny.pdb (Full PDB)
+﻿  God.cpp
+f:\dropbox\dropbox\dylemat_genetyczny\dylemat_genetyczny\god.cpp(17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\dropbox\dropbox\dylemat_genetyczny\dylemat_genetyczny\god.cpp(28): warning C4018: '<': signed/unsigned mismatch
+f:\dropbox\dropbox\dylemat_genetyczny\dylemat_genetyczny\god.cpp(36): warning C4018: '<': signed/unsigned mismatch
+f:\dropbox\dropbox\dylemat_genetyczny\dylemat_genetyczny\god.cpp(60): warning C4018: '<': signed/unsigned mismatch
+f:\dropbox\dropbox\dylemat_genetyczny\dylemat_genetyczny\god.cpp(65): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+f:\dropbox\dropbox\dylemat_genetyczny\dylemat_genetyczny\god.cpp(67): warning C4018: '<': signed/unsigned mismatch
+f:\dropbox\dropbox\dylemat_genetyczny\dylemat_genetyczny\god.cpp(68): warning C4018: '<': signed/unsigned mismatch
+f:\dropbox\dropbox\dylemat_genetyczny\dylemat_genetyczny\god.cpp(88): warning C4018: '<': signed/unsigned mismatch
+f:\dropbox\dropbox\dylemat_genetyczny\dylemat_genetyczny\god.cpp(89): warning C4018: '<': signed/unsigned mismatch
+f:\dropbox\dropbox\dylemat_genetyczny\dylemat_genetyczny\god.cpp(113): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+f:\dropbox\dropbox\dylemat_genetyczny\dylemat_genetyczny\god.cpp(114): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+f:\dropbox\dropbox\dylemat_genetyczny\dylemat_genetyczny\god.cpp(117): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+f:\dropbox\dropbox\dylemat_genetyczny\dylemat_genetyczny\god.cpp(118): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+f:\dropbox\dropbox\dylemat_genetyczny\dylemat_genetyczny\god.cpp(379): warning C4018: '<': signed/unsigned mismatch
+f:\dropbox\dropbox\dylemat_genetyczny\dylemat_genetyczny\god.cpp(382): warning C4018: '<': signed/unsigned mismatch
+  Dylemat_Genetyczny.vcxproj -> F:\dropbox\Dropbox\Dylemat_Genetyczny\Debug\Dylemat_Genetyczny.exe
+  Dylemat_Genetyczny.vcxproj -> F:\dropbox\Dropbox\Dylemat_Genetyczny\Debug\Dylemat_Genetyczny.pdb (Full PDB)

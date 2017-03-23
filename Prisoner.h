@@ -18,6 +18,7 @@ public:
 	int getFirstMovesPoints();
 	int getStrategyPoints();
 	int getNumberOfMoves();
+	int getFourPower();
 	
 	void setStrategyOutput(bool* _array);
 	void setSpecificStrategyOutput(int index, bool value);
@@ -26,6 +27,7 @@ public:
 	void setStrategyPoints(int value);
 	void setFirstMovesPoints(int value);
 	void setNumberOfMoves(int number);
+	void setFourPower(int number);
 
 	void addFirstMovesPoints(int number);
 	void addStrategyPoints(int number);

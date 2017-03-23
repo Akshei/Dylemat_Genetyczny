@@ -14,7 +14,9 @@
 #include <vector>
 #include <string.h>
 #include <math.h>
-
+#include <ctime>
+#include <vld.h>
+#include <time.h>
 
 
 // TODO: reference additional headers your program requires here

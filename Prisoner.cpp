@@ -42,6 +42,11 @@ int Prisoner::getNumberOfMoves()
 	return this->nr_of_moves;
 }
 
+int Prisoner::getFourPower()
+{
+	return this->four_power;
+}
+
 void Prisoner::setStrategyOutput(bool * _array)
 {
 	delete(this->strategy_output);
@@ -80,7 +85,12 @@ void Prisoner::setNumberOfMoves(int number)
 	this->nr_of_moves = number;
 	// dont do it, plyz
 	// plyz
-	//stahp 
+	// stahp 
+}
+
+void Prisoner::setFourPower(int number)
+{
+	this->four_power = number;
 }
 
 void Prisoner::addFirstMovesPoints(int number)
@@ -118,6 +128,6 @@ Prisoner::Prisoner(int _nr_of_moves)
 
 Prisoner::~Prisoner()
 {
-	delete(first_moves);
-	delete(strategy_output);
+	delete first_moves;
+	delete strategy_output;
 }
