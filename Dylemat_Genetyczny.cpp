@@ -7,10 +7,12 @@
 int main()
 {
 	srand(time(NULL));
-	string a;
-	God* x = new God(10, 1, 4, 2, 16,10000);
-	x->runGenerationLimit();
+	God* x = new God(20, 0,3,4,16,10,"Alcatraz");
+	x->run();
 	delete(x);
+
+
+	string a;
 	cin >> a;
     return 0;
 }

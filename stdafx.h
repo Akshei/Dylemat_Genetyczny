@@ -17,6 +17,7 @@
 #include <ctime>
 #include <vld.h>
 #include <time.h>
-
+#include <cstdlib>
+#include <fstream>
 
 // TODO: reference additional headers your program requires here

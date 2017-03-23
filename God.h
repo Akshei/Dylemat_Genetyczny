@@ -4,6 +4,7 @@ using namespace std;
 #pragma once
 class God
 {
+	// 0 to zdrada, 1 to wspó³praca
 	vector <Prisoner*> actual_population;
 	vector <Prisoner*> crossing_population;
 	int population_size;
@@ -27,15 +28,15 @@ class God
 	void chooseEverything();
 
 	string boolToStr(bool b);
-	bool loadGeneration(string file_name);
-	bool saveGeneration();
+	void saveGeneration();
 	void oneCycleEvolution();
 	void debugDisplay();
-public:
-	
 
 	void runTimeLimit();
 	void runGenerationLimit();
+public:
+	void run();
+
 	vector<Prisoner*> getActualPopulation();
 	int getNumberGeneration();
 	int getPopulationSize();
@@ -64,7 +65,8 @@ public:
 		int _move_count,
 		int _mutation_count,
 		int _strategic_move_count,
-		int _limit);
+		int _limit,
+		string _species_name);
 	~God();
 };
 

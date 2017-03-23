@@ -1,0 +1,137 @@
+Nazwa gatunku:,Alcatraz
+Generacja:,2
+Wielkoœæ populacji:,20
+Generacja:,2
+Maksymalna iloœæ mutacji:,4
+Iloœæ uwzglêdnianych ruchów:,3
+
+Nr wiêŸnia w aktualnej populacji:,0
+Pierwsze ruchy,1,2,3,
+Ruchy:,Zdrada,Wspó³praca,Zdrada,
+Strategie,ZZZZZZ,WZZZZZ,ZWZZZZ,WWZZZZ,ZZWZZZ,WZWZZZ,ZWWZZZ,WWWZZZ,ZZZWZZ,WZZWZZ,ZWZWZZ,WWZWZZ,ZZWWZZ,WZWWZZ,ZWWWZZ,WWWWZZ,ZZZZWZ,WZZZWZ,ZWZZWZ,WWZZWZ,ZZWZWZ,WZWZWZ,ZWWZWZ,WWWZWZ,ZZZWWZ,WZZWWZ,ZWZWWZ,WWZWWZ,ZZWWWZ,WZWWWZ,ZWWWWZ,WWWWWZ,ZZZZZW,WZZZZW,ZWZZZW,WWZZZW,ZZWZZW,WZWZZW,ZWWZZW,WWWZZW,ZZZWZW,WZZWZW,ZWZWZW,WWZWZW,ZZWWZW,WZWWZW,ZWWWZW,WWWWZW,ZZZZWW,WZZZWW,ZWZZWW,WWZZWW,ZZWZWW,WZWZWW,ZWWZWW,WWWZWW,ZZZWWW,WZZWWW,ZWZWWW,WWZWWW,ZZWWWW,WZWWWW,ZWWWWW,WWWWWW,
+,Wspó³praca,Zdrada,Zdrada,Zdrada,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Zdrada,Zdrada,Zdrada,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Zdrada,Zdrada,
+
+Nr wiêŸnia w aktualnej populacji:,1
+Pierwsze ruchy,1,2,3,
+Ruchy:,Zdrada,Zdrada,Wspó³praca,
+Strategie,ZZZZZZ,WZZZZZ,ZWZZZZ,WWZZZZ,ZZWZZZ,WZWZZZ,ZWWZZZ,WWWZZZ,ZZZWZZ,WZZWZZ,ZWZWZZ,WWZWZZ,ZZWWZZ,WZWWZZ,ZWWWZZ,WWWWZZ,ZZZZWZ,WZZZWZ,ZWZZWZ,WWZZWZ,ZZWZWZ,WZWZWZ,ZWWZWZ,WWWZWZ,ZZZWWZ,WZZWWZ,ZWZWWZ,WWZWWZ,ZZWWWZ,WZWWWZ,ZWWWWZ,WWWWWZ,ZZZZZW,WZZZZW,ZWZZZW,WWZZZW,ZZWZZW,WZWZZW,ZWWZZW,WWWZZW,ZZZWZW,WZZWZW,ZWZWZW,WWZWZW,ZZWWZW,WZWWZW,ZWWWZW,WWWWZW,ZZZZWW,WZZZWW,ZWZZWW,WWZZWW,ZZWZWW,WZWZWW,ZWWZWW,WWWZWW,ZZZWWW,WZZWWW,ZWZWWW,WWZWWW,ZZWWWW,WZWWWW,ZWWWWW,WWWWWW,
+,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Zdrada,Zdrada,Zdrada,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Zdrada,Zdrada,Zdrada,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Zdrada,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Zdrada,Zdrada,
+
+Nr wiêŸnia w aktualnej populacji:,2
+Pierwsze ruchy,1,2,3,
+Ruchy:,Zdrada,Wspó³praca,Wspó³praca,
+Strategie,ZZZZZZ,WZZZZZ,ZWZZZZ,WWZZZZ,ZZWZZZ,WZWZZZ,ZWWZZZ,WWWZZZ,ZZZWZZ,WZZWZZ,ZWZWZZ,WWZWZZ,ZZWWZZ,WZWWZZ,ZWWWZZ,WWWWZZ,ZZZZWZ,WZZZWZ,ZWZZWZ,WWZZWZ,ZZWZWZ,WZWZWZ,ZWWZWZ,WWWZWZ,ZZZWWZ,WZZWWZ,ZWZWWZ,WWZWWZ,ZZWWWZ,WZWWWZ,ZWWWWZ,WWWWWZ,ZZZZZW,WZZZZW,ZWZZZW,WWZZZW,ZZWZZW,WZWZZW,ZWWZZW,WWWZZW,ZZZWZW,WZZWZW,ZWZWZW,WWZWZW,ZZWWZW,WZWWZW,ZWWWZW,WWWWZW,ZZZZWW,WZZZWW,ZWZZWW,WWZZWW,ZZWZWW,WZWZWW,ZWWZWW,WWWZWW,ZZZWWW,WZZWWW,ZWZWWW,WWZWWW,ZZWWWW,WZWWWW,ZWWWWW,WWWWWW,
+,Wspó³praca,Zdrada,Zdrada,Zdrada,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Zdrada,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Zdrada,Zdrada,
+
+Nr wiêŸnia w aktualnej populacji:,3
+Pierwsze ruchy,1,2,3,
+Ruchy:,Zdrada,Zdrada,Zdrada,
+Strategie,ZZZZZZ,WZZZZZ,ZWZZZZ,WWZZZZ,ZZWZZZ,WZWZZZ,ZWWZZZ,WWWZZZ,ZZZWZZ,WZZWZZ,ZWZWZZ,WWZWZZ,ZZWWZZ,WZWWZZ,ZWWWZZ,WWWWZZ,ZZZZWZ,WZZZWZ,ZWZZWZ,WWZZWZ,ZZWZWZ,WZWZWZ,ZWWZWZ,WWWZWZ,ZZZWWZ,WZZWWZ,ZWZWWZ,WWZWWZ,ZZWWWZ,WZWWWZ,ZWWWWZ,WWWWWZ,ZZZZZW,WZZZZW,ZWZZZW,WWZZZW,ZZWZZW,WZWZZW,ZWWZZW,WWWZZW,ZZZWZW,WZZWZW,ZWZWZW,WWZWZW,ZZWWZW,WZWWZW,ZWWWZW,WWWWZW,ZZZZWW,WZZZWW,ZWZZWW,WWZZWW,ZZWZWW,WZWZWW,ZWWZWW,WWWZWW,ZZZWWW,WZZWWW,ZWZWWW,WWZWWW,ZZWWWW,WZWWWW,ZWWWWW,WWWWWW,
+,Wspó³praca,Zdrada,Zdrada,Zdrada,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Zdrada,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Zdrada,
+
+Nr wiêŸnia w aktualnej populacji:,4
+Pierwsze ruchy,1,2,3,
+Ruchy:,Zdrada,Zdrada,Zdrada,
+Strategie,ZZZZZZ,WZZZZZ,ZWZZZZ,WWZZZZ,ZZWZZZ,WZWZZZ,ZWWZZZ,WWWZZZ,ZZZWZZ,WZZWZZ,ZWZWZZ,WWZWZZ,ZZWWZZ,WZWWZZ,ZWWWZZ,WWWWZZ,ZZZZWZ,WZZZWZ,ZWZZWZ,WWZZWZ,ZZWZWZ,WZWZWZ,ZWWZWZ,WWWZWZ,ZZZWWZ,WZZWWZ,ZWZWWZ,WWZWWZ,ZZWWWZ,WZWWWZ,ZWWWWZ,WWWWWZ,ZZZZZW,WZZZZW,ZWZZZW,WWZZZW,ZZWZZW,WZWZZW,ZWWZZW,WWWZZW,ZZZWZW,WZZWZW,ZWZWZW,WWZWZW,ZZWWZW,WZWWZW,ZWWWZW,WWWWZW,ZZZZWW,WZZZWW,ZWZZWW,WWZZWW,ZZWZWW,WZWZWW,ZWWZWW,WWWZWW,ZZZWWW,WZZWWW,ZWZWWW,WWZWWW,ZZWWWW,WZWWWW,ZWWWWW,WWWWWW,
+,Wspó³praca,Zdrada,Wspó³praca,Zdrada,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Zdrada,
+
+Nr wiêŸnia w aktualnej populacji:,5
+Pierwsze ruchy,1,2,3,
+Ruchy:,Zdrada,Wspó³praca,Wspó³praca,
+Strategie,ZZZZZZ,WZZZZZ,ZWZZZZ,WWZZZZ,ZZWZZZ,WZWZZZ,ZWWZZZ,WWWZZZ,ZZZWZZ,WZZWZZ,ZWZWZZ,WWZWZZ,ZZWWZZ,WZWWZZ,ZWWWZZ,WWWWZZ,ZZZZWZ,WZZZWZ,ZWZZWZ,WWZZWZ,ZZWZWZ,WZWZWZ,ZWWZWZ,WWWZWZ,ZZZWWZ,WZZWWZ,ZWZWWZ,WWZWWZ,ZZWWWZ,WZWWWZ,ZWWWWZ,WWWWWZ,ZZZZZW,WZZZZW,ZWZZZW,WWZZZW,ZZWZZW,WZWZZW,ZWWZZW,WWWZZW,ZZZWZW,WZZWZW,ZWZWZW,WWZWZW,ZZWWZW,WZWWZW,ZWWWZW,WWWWZW,ZZZZWW,WZZZWW,ZWZZWW,WWZZWW,ZZWZWW,WZWZWW,ZWWZWW,WWWZWW,ZZZWWW,WZZWWW,ZWZWWW,WWZWWW,ZZWWWW,WZWWWW,ZWWWWW,WWWWWW,
+,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Zdrada,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Zdrada,Wspó³praca,Zdrada,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Zdrada,Zdrada,
+
+Nr wiêŸnia w aktualnej populacji:,6
+Pierwsze ruchy,1,2,3,
+Ruchy:,Zdrada,Zdrada,Zdrada,
+Strategie,ZZZZZZ,WZZZZZ,ZWZZZZ,WWZZZZ,ZZWZZZ,WZWZZZ,ZWWZZZ,WWWZZZ,ZZZWZZ,WZZWZZ,ZWZWZZ,WWZWZZ,ZZWWZZ,WZWWZZ,ZWWWZZ,WWWWZZ,ZZZZWZ,WZZZWZ,ZWZZWZ,WWZZWZ,ZZWZWZ,WZWZWZ,ZWWZWZ,WWWZWZ,ZZZWWZ,WZZWWZ,ZWZWWZ,WWZWWZ,ZZWWWZ,WZWWWZ,ZWWWWZ,WWWWWZ,ZZZZZW,WZZZZW,ZWZZZW,WWZZZW,ZZWZZW,WZWZZW,ZWWZZW,WWWZZW,ZZZWZW,WZZWZW,ZWZWZW,WWZWZW,ZZWWZW,WZWWZW,ZWWWZW,WWWWZW,ZZZZWW,WZZZWW,ZWZZWW,WWZZWW,ZZWZWW,WZWZWW,ZWWZWW,WWWZWW,ZZZWWW,WZZWWW,ZWZWWW,WWZWWW,ZZWWWW,WZWWWW,ZWWWWW,WWWWWW,
+,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Zdrada,Zdrada,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Zdrada,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Zdrada,Zdrada,
+
+Nr wiêŸnia w aktualnej populacji:,7
+Pierwsze ruchy,1,2,3,
+Ruchy:,Zdrada,Zdrada,Wspó³praca,
+Strategie,ZZZZZZ,WZZZZZ,ZWZZZZ,WWZZZZ,ZZWZZZ,WZWZZZ,ZWWZZZ,WWWZZZ,ZZZWZZ,WZZWZZ,ZWZWZZ,WWZWZZ,ZZWWZZ,WZWWZZ,ZWWWZZ,WWWWZZ,ZZZZWZ,WZZZWZ,ZWZZWZ,WWZZWZ,ZZWZWZ,WZWZWZ,ZWWZWZ,WWWZWZ,ZZZWWZ,WZZWWZ,ZWZWWZ,WWZWWZ,ZZWWWZ,WZWWWZ,ZWWWWZ,WWWWWZ,ZZZZZW,WZZZZW,ZWZZZW,WWZZZW,ZZWZZW,WZWZZW,ZWWZZW,WWWZZW,ZZZWZW,WZZWZW,ZWZWZW,WWZWZW,ZZWWZW,WZWWZW,ZWWWZW,WWWWZW,ZZZZWW,WZZZWW,ZWZZWW,WWZZWW,ZZWZWW,WZWZWW,ZWWZWW,WWWZWW,ZZZWWW,WZZWWW,ZWZWWW,WWZWWW,ZZWWWW,WZWWWW,ZWWWWW,WWWWWW,
+,Zdrada,Zdrada,Zdrada,Zdrada,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Zdrada,Zdrada,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Zdrada,Zdrada,Wspó³praca,Zdrada,Zdrada,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,
+
+Nr wiêŸnia w aktualnej populacji:,8
+Pierwsze ruchy,1,2,3,
+Ruchy:,Zdrada,Wspó³praca,Zdrada,
+Strategie,ZZZZZZ,WZZZZZ,ZWZZZZ,WWZZZZ,ZZWZZZ,WZWZZZ,ZWWZZZ,WWWZZZ,ZZZWZZ,WZZWZZ,ZWZWZZ,WWZWZZ,ZZWWZZ,WZWWZZ,ZWWWZZ,WWWWZZ,ZZZZWZ,WZZZWZ,ZWZZWZ,WWZZWZ,ZZWZWZ,WZWZWZ,ZWWZWZ,WWWZWZ,ZZZWWZ,WZZWWZ,ZWZWWZ,WWZWWZ,ZZWWWZ,WZWWWZ,ZWWWWZ,WWWWWZ,ZZZZZW,WZZZZW,ZWZZZW,WWZZZW,ZZWZZW,WZWZZW,ZWWZZW,WWWZZW,ZZZWZW,WZZWZW,ZWZWZW,WWZWZW,ZZWWZW,WZWWZW,ZWWWZW,WWWWZW,ZZZZWW,WZZZWW,ZWZZWW,WWZZWW,ZZWZWW,WZWZWW,ZWWZWW,WWWZWW,ZZZWWW,WZZWWW,ZWZWWW,WWZWWW,ZZWWWW,WZWWWW,ZWWWWW,WWWWWW,
+,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Zdrada,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Zdrada,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Zdrada,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Zdrada,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Zdrada,Zdrada,
+
+Nr wiêŸnia w aktualnej populacji:,9
+Pierwsze ruchy,1,2,3,
+Ruchy:,Zdrada,Wspó³praca,Zdrada,
+Strategie,ZZZZZZ,WZZZZZ,ZWZZZZ,WWZZZZ,ZZWZZZ,WZWZZZ,ZWWZZZ,WWWZZZ,ZZZWZZ,WZZWZZ,ZWZWZZ,WWZWZZ,ZZWWZZ,WZWWZZ,ZWWWZZ,WWWWZZ,ZZZZWZ,WZZZWZ,ZWZZWZ,WWZZWZ,ZZWZWZ,WZWZWZ,ZWWZWZ,WWWZWZ,ZZZWWZ,WZZWWZ,ZWZWWZ,WWZWWZ,ZZWWWZ,WZWWWZ,ZWWWWZ,WWWWWZ,ZZZZZW,WZZZZW,ZWZZZW,WWZZZW,ZZWZZW,WZWZZW,ZWWZZW,WWWZZW,ZZZWZW,WZZWZW,ZWZWZW,WWZWZW,ZZWWZW,WZWWZW,ZWWWZW,WWWWZW,ZZZZWW,WZZZWW,ZWZZWW,WWZZWW,ZZWZWW,WZWZWW,ZWWZWW,WWWZWW,ZZZWWW,WZZWWW,ZWZWWW,WWZWWW,ZZWWWW,WZWWWW,ZWWWWW,WWWWWW,
+,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Zdrada,Zdrada,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Zdrada,Zdrada,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Zdrada,Zdrada,
+
+Nr wiêŸnia w aktualnej populacji:,10
+Pierwsze ruchy,1,2,3,
+Ruchy:,Zdrada,Zdrada,Zdrada,
+Strategie,ZZZZZZ,WZZZZZ,ZWZZZZ,WWZZZZ,ZZWZZZ,WZWZZZ,ZWWZZZ,WWWZZZ,ZZZWZZ,WZZWZZ,ZWZWZZ,WWZWZZ,ZZWWZZ,WZWWZZ,ZWWWZZ,WWWWZZ,ZZZZWZ,WZZZWZ,ZWZZWZ,WWZZWZ,ZZWZWZ,WZWZWZ,ZWWZWZ,WWWZWZ,ZZZWWZ,WZZWWZ,ZWZWWZ,WWZWWZ,ZZWWWZ,WZWWWZ,ZWWWWZ,WWWWWZ,ZZZZZW,WZZZZW,ZWZZZW,WWZZZW,ZZWZZW,WZWZZW,ZWWZZW,WWWZZW,ZZZWZW,WZZWZW,ZWZWZW,WWZWZW,ZZWWZW,WZWWZW,ZWWWZW,WWWWZW,ZZZZWW,WZZZWW,ZWZZWW,WWZZWW,ZZWZWW,WZWZWW,ZWWZWW,WWWZWW,ZZZWWW,WZZWWW,ZWZWWW,WWZWWW,ZZWWWW,WZWWWW,ZWWWWW,WWWWWW,
+,Zdrada,Zdrada,Zdrada,Zdrada,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Zdrada,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Zdrada,
+
+Nr wiêŸnia w aktualnej populacji:,11
+Pierwsze ruchy,1,2,3,
+Ruchy:,Zdrada,Wspó³praca,Zdrada,
+Strategie,ZZZZZZ,WZZZZZ,ZWZZZZ,WWZZZZ,ZZWZZZ,WZWZZZ,ZWWZZZ,WWWZZZ,ZZZWZZ,WZZWZZ,ZWZWZZ,WWZWZZ,ZZWWZZ,WZWWZZ,ZWWWZZ,WWWWZZ,ZZZZWZ,WZZZWZ,ZWZZWZ,WWZZWZ,ZZWZWZ,WZWZWZ,ZWWZWZ,WWWZWZ,ZZZWWZ,WZZWWZ,ZWZWWZ,WWZWWZ,ZZWWWZ,WZWWWZ,ZWWWWZ,WWWWWZ,ZZZZZW,WZZZZW,ZWZZZW,WWZZZW,ZZWZZW,WZWZZW,ZWWZZW,WWWZZW,ZZZWZW,WZZWZW,ZWZWZW,WWZWZW,ZZWWZW,WZWWZW,ZWWWZW,WWWWZW,ZZZZWW,WZZZWW,ZWZZWW,WWZZWW,ZZWZWW,WZWZWW,ZWWZWW,WWWZWW,ZZZWWW,WZZWWW,ZWZWWW,WWZWWW,ZZWWWW,WZWWWW,ZWWWWW,WWWWWW,
+,Wspó³praca,Zdrada,Zdrada,Zdrada,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Zdrada,Wspó³praca,Zdrada,Wspó³praca,Zdrada,Zdrada,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Zdrada,Zdrada,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Zdrada,Zdrada,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Zdrada,
+
+Nr wiêŸnia w aktualnej populacji:,12
+Pierwsze ruchy,1,2,3,
+Ruchy:,Zdrada,Zdrada,Zdrada,
+Strategie,ZZZZZZ,WZZZZZ,ZWZZZZ,WWZZZZ,ZZWZZZ,WZWZZZ,ZWWZZZ,WWWZZZ,ZZZWZZ,WZZWZZ,ZWZWZZ,WWZWZZ,ZZWWZZ,WZWWZZ,ZWWWZZ,WWWWZZ,ZZZZWZ,WZZZWZ,ZWZZWZ,WWZZWZ,ZZWZWZ,WZWZWZ,ZWWZWZ,WWWZWZ,ZZZWWZ,WZZWWZ,ZWZWWZ,WWZWWZ,ZZWWWZ,WZWWWZ,ZWWWWZ,WWWWWZ,ZZZZZW,WZZZZW,ZWZZZW,WWZZZW,ZZWZZW,WZWZZW,ZWWZZW,WWWZZW,ZZZWZW,WZZWZW,ZWZWZW,WWZWZW,ZZWWZW,WZWWZW,ZWWWZW,WWWWZW,ZZZZWW,WZZZWW,ZWZZWW,WWZZWW,ZZWZWW,WZWZWW,ZWWZWW,WWWZWW,ZZZWWW,WZZWWW,ZWZWWW,WWZWWW,ZZWWWW,WZWWWW,ZWWWWW,WWWWWW,
+,Zdrada,Zdrada,Zdrada,Zdrada,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Zdrada,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Zdrada,Zdrada,Zdrada,Wspó³praca,Zdrada,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Zdrada,Zdrada,Zdrada,Zdrada,Zdrada,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Zdrada,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,
+
+Nr wiêŸnia w aktualnej populacji:,13
+Pierwsze ruchy,1,2,3,
+Ruchy:,Zdrada,Wspó³praca,Zdrada,
+Strategie,ZZZZZZ,WZZZZZ,ZWZZZZ,WWZZZZ,ZZWZZZ,WZWZZZ,ZWWZZZ,WWWZZZ,ZZZWZZ,WZZWZZ,ZWZWZZ,WWZWZZ,ZZWWZZ,WZWWZZ,ZWWWZZ,WWWWZZ,ZZZZWZ,WZZZWZ,ZWZZWZ,WWZZWZ,ZZWZWZ,WZWZWZ,ZWWZWZ,WWWZWZ,ZZZWWZ,WZZWWZ,ZWZWWZ,WWZWWZ,ZZWWWZ,WZWWWZ,ZWWWWZ,WWWWWZ,ZZZZZW,WZZZZW,ZWZZZW,WWZZZW,ZZWZZW,WZWZZW,ZWWZZW,WWWZZW,ZZZWZW,WZZWZW,ZWZWZW,WWZWZW,ZZWWZW,WZWWZW,ZWWWZW,WWWWZW,ZZZZWW,WZZZWW,ZWZZWW,WWZZWW,ZZWZWW,WZWZWW,ZWWZWW,WWWZWW,ZZZWWW,WZZWWW,ZWZWWW,WWZWWW,ZZWWWW,WZWWWW,ZWWWWW,WWWWWW,
+,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Zdrada,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Zdrada,Zdrada,
+
+Nr wiêŸnia w aktualnej populacji:,14
+Pierwsze ruchy,1,2,3,
+Ruchy:,Zdrada,Zdrada,Zdrada,
+Strategie,ZZZZZZ,WZZZZZ,ZWZZZZ,WWZZZZ,ZZWZZZ,WZWZZZ,ZWWZZZ,WWWZZZ,ZZZWZZ,WZZWZZ,ZWZWZZ,WWZWZZ,ZZWWZZ,WZWWZZ,ZWWWZZ,WWWWZZ,ZZZZWZ,WZZZWZ,ZWZZWZ,WWZZWZ,ZZWZWZ,WZWZWZ,ZWWZWZ,WWWZWZ,ZZZWWZ,WZZWWZ,ZWZWWZ,WWZWWZ,ZZWWWZ,WZWWWZ,ZWWWWZ,WWWWWZ,ZZZZZW,WZZZZW,ZWZZZW,WWZZZW,ZZWZZW,WZWZZW,ZWWZZW,WWWZZW,ZZZWZW,WZZWZW,ZWZWZW,WWZWZW,ZZWWZW,WZWWZW,ZWWWZW,WWWWZW,ZZZZWW,WZZZWW,ZWZZWW,WWZZWW,ZZWZWW,WZWZWW,ZWWZWW,WWWZWW,ZZZWWW,WZZWWW,ZWZWWW,WWZWWW,ZZWWWW,WZWWWW,ZWWWWW,WWWWWW,
+,Zdrada,Zdrada,Zdrada,Zdrada,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Zdrada,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Zdrada,Zdrada,Zdrada,Zdrada,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Zdrada,Zdrada,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,
+
+Nr wiêŸnia w aktualnej populacji:,15
+Pierwsze ruchy,1,2,3,
+Ruchy:,Zdrada,Zdrada,Zdrada,
+Strategie,ZZZZZZ,WZZZZZ,ZWZZZZ,WWZZZZ,ZZWZZZ,WZWZZZ,ZWWZZZ,WWWZZZ,ZZZWZZ,WZZWZZ,ZWZWZZ,WWZWZZ,ZZWWZZ,WZWWZZ,ZWWWZZ,WWWWZZ,ZZZZWZ,WZZZWZ,ZWZZWZ,WWZZWZ,ZZWZWZ,WZWZWZ,ZWWZWZ,WWWZWZ,ZZZWWZ,WZZWWZ,ZWZWWZ,WWZWWZ,ZZWWWZ,WZWWWZ,ZWWWWZ,WWWWWZ,ZZZZZW,WZZZZW,ZWZZZW,WWZZZW,ZZWZZW,WZWZZW,ZWWZZW,WWWZZW,ZZZWZW,WZZWZW,ZWZWZW,WWZWZW,ZZWWZW,WZWWZW,ZWWWZW,WWWWZW,ZZZZWW,WZZZWW,ZWZZWW,WWZZWW,ZZWZWW,WZWZWW,ZWWZWW,WWWZWW,ZZZWWW,WZZWWW,ZWZWWW,WWZWWW,ZZWWWW,WZWWWW,ZWWWWW,WWWWWW,
+,Wspó³praca,Zdrada,Zdrada,Zdrada,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Zdrada,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Zdrada,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Zdrada,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Zdrada,Zdrada,
+
+Nr wiêŸnia w aktualnej populacji:,16
+Pierwsze ruchy,1,2,3,
+Ruchy:,Zdrada,Wspó³praca,Zdrada,
+Strategie,ZZZZZZ,WZZZZZ,ZWZZZZ,WWZZZZ,ZZWZZZ,WZWZZZ,ZWWZZZ,WWWZZZ,ZZZWZZ,WZZWZZ,ZWZWZZ,WWZWZZ,ZZWWZZ,WZWWZZ,ZWWWZZ,WWWWZZ,ZZZZWZ,WZZZWZ,ZWZZWZ,WWZZWZ,ZZWZWZ,WZWZWZ,ZWWZWZ,WWWZWZ,ZZZWWZ,WZZWWZ,ZWZWWZ,WWZWWZ,ZZWWWZ,WZWWWZ,ZWWWWZ,WWWWWZ,ZZZZZW,WZZZZW,ZWZZZW,WWZZZW,ZZWZZW,WZWZZW,ZWWZZW,WWWZZW,ZZZWZW,WZZWZW,ZWZWZW,WWZWZW,ZZWWZW,WZWWZW,ZWWWZW,WWWWZW,ZZZZWW,WZZZWW,ZWZZWW,WWZZWW,ZZWZWW,WZWZWW,ZWWZWW,WWWZWW,ZZZWWW,WZZWWW,ZWZWWW,WWZWWW,ZZWWWW,WZWWWW,ZWWWWW,WWWWWW,
+,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Zdrada,Zdrada,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Zdrada,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Zdrada,Zdrada,
+
+Nr wiêŸnia w aktualnej populacji:,17
+Pierwsze ruchy,1,2,3,
+Ruchy:,Wspó³praca,Zdrada,Wspó³praca,
+Strategie,ZZZZZZ,WZZZZZ,ZWZZZZ,WWZZZZ,ZZWZZZ,WZWZZZ,ZWWZZZ,WWWZZZ,ZZZWZZ,WZZWZZ,ZWZWZZ,WWZWZZ,ZZWWZZ,WZWWZZ,ZWWWZZ,WWWWZZ,ZZZZWZ,WZZZWZ,ZWZZWZ,WWZZWZ,ZZWZWZ,WZWZWZ,ZWWZWZ,WWWZWZ,ZZZWWZ,WZZWWZ,ZWZWWZ,WWZWWZ,ZZWWWZ,WZWWWZ,ZWWWWZ,WWWWWZ,ZZZZZW,WZZZZW,ZWZZZW,WWZZZW,ZZWZZW,WZWZZW,ZWWZZW,WWWZZW,ZZZWZW,WZZWZW,ZWZWZW,WWZWZW,ZZWWZW,WZWWZW,ZWWWZW,WWWWZW,ZZZZWW,WZZZWW,ZWZZWW,WWZZWW,ZZWZWW,WZWZWW,ZWWZWW,WWWZWW,ZZZWWW,WZZWWW,ZWZWWW,WWZWWW,ZZWWWW,WZWWWW,ZWWWWW,WWWWWW,
+,Zdrada,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Zdrada,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Zdrada,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Zdrada,Zdrada,Zdrada,Zdrada,Zdrada,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Zdrada,
+
+Nr wiêŸnia w aktualnej populacji:,18
+Pierwsze ruchy,1,2,3,
+Ruchy:,Zdrada,Zdrada,Zdrada,
+Strategie,ZZZZZZ,WZZZZZ,ZWZZZZ,WWZZZZ,ZZWZZZ,WZWZZZ,ZWWZZZ,WWWZZZ,ZZZWZZ,WZZWZZ,ZWZWZZ,WWZWZZ,ZZWWZZ,WZWWZZ,ZWWWZZ,WWWWZZ,ZZZZWZ,WZZZWZ,ZWZZWZ,WWZZWZ,ZZWZWZ,WZWZWZ,ZWWZWZ,WWWZWZ,ZZZWWZ,WZZWWZ,ZWZWWZ,WWZWWZ,ZZWWWZ,WZWWWZ,ZWWWWZ,WWWWWZ,ZZZZZW,WZZZZW,ZWZZZW,WWZZZW,ZZWZZW,WZWZZW,ZWWZZW,WWWZZW,ZZZWZW,WZZWZW,ZWZWZW,WWZWZW,ZZWWZW,WZWWZW,ZWWWZW,WWWWZW,ZZZZWW,WZZZWW,ZWZZWW,WWZZWW,ZZWZWW,WZWZWW,ZWWZWW,WWWZWW,ZZZWWW,WZZWWW,ZWZWWW,WWZWWW,ZZWWWW,WZWWWW,ZWWWWW,WWWWWW,
+,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Zdrada,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Zdrada,Zdrada,Zdrada,Zdrada,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Zdrada,
+
+Nr wiêŸnia w aktualnej populacji:,19
+Pierwsze ruchy,1,2,3,
+Ruchy:,Zdrada,Wspó³praca,Zdrada,
+Strategie,ZZZZZZ,WZZZZZ,ZWZZZZ,WWZZZZ,ZZWZZZ,WZWZZZ,ZWWZZZ,WWWZZZ,ZZZWZZ,WZZWZZ,ZWZWZZ,WWZWZZ,ZZWWZZ,WZWWZZ,ZWWWZZ,WWWWZZ,ZZZZWZ,WZZZWZ,ZWZZWZ,WWZZWZ,ZZWZWZ,WZWZWZ,ZWWZWZ,WWWZWZ,ZZZWWZ,WZZWWZ,ZWZWWZ,WWZWWZ,ZZWWWZ,WZWWWZ,ZWWWWZ,WWWWWZ,ZZZZZW,WZZZZW,ZWZZZW,WWZZZW,ZZWZZW,WZWZZW,ZWWZZW,WWWZZW,ZZZWZW,WZZWZW,ZWZWZW,WWZWZW,ZZWWZW,WZWWZW,ZWWWZW,WWWWZW,ZZZZWW,WZZZWW,ZWZZWW,WWZZWW,ZZWZWW,WZWZWW,ZWWZWW,WWWZWW,ZZZWWW,WZZWWW,ZWZWWW,WWZWWW,ZZWWWW,WZWWWW,ZWWWWW,WWWWWW,
+,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Zdrada,Zdrada,Zdrada,Zdrada,Zdrada,Zdrada,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Wspó³praca,Zdrada,Wspó³praca,Wspó³praca,Zdrada,Zdrada,Wspó³praca,Zdrada,Zdrada,
+
+
+Statystyka
+Pierwsze ruchy,1,2,3,
+Wspó³praca: ,1,9,5,
+Zdrada: ,19,11,15,
+
+
+Strategie,ZZZZZZ,WZZZZZ,ZWZZZZ,WWZZZZ,ZZWZZZ,WZWZZZ,ZWWZZZ,WWWZZZ,ZZZWZZ,WZZWZZ,ZWZWZZ,WWZWZZ,ZZWWZZ,WZWWZZ,ZWWWZZ,WWWWZZ,ZZZZWZ,WZZZWZ,ZWZZWZ,WWZZWZ,ZZWZWZ,WZWZWZ,ZWWZWZ,WWWZWZ,ZZZWWZ,WZZWWZ,ZWZWWZ,WWZWWZ,ZZWWWZ,WZWWWZ,ZWWWWZ,WWWWWZ,ZZZZZW,WZZZZW,ZWZZZW,WWZZZW,ZZWZZW,WZWZZW,ZWWZZW,WWWZZW,ZZZWZW,WZZWZW,ZWZWZW,WWZWZW,ZZWWZW,WZWWZW,ZWWWZW,WWWWZW,ZZZZWW,WZZZWW,ZWZZWW,WWZZWW,ZZWZWW,WZWZWW,ZWWZWW,WWWZWW,ZZZWWW,WZZWWW,ZWZWWW,WWZWWW,ZZWWWW,WZWWWW,ZWWWWW,WWWWWW,
+Wspó³praca: ,15,0,3,10,9,0,14,20,14,16,7,5,2,10,9,10,19,14,11,15,16,16,5,3,12,17,8,7,5,14,6,4,19,20,20,15,10,15,15,2,19,7,0,16,13,9,18,4,16,20,12,12,13,15,0,10,3,14,16,3,6,20,6,0,
+Zdrada: ,5,20,17,10,11,20,6,0,6,4,13,15,18,10,11,10,1,6,9,5,4,4,15,17,8,3,12,13,15,6,14,16,1,0,0,5,10,5,5,18,1,13,20,4,7,11,2,16,4,0,8,8,7,5,20,10,17,6,4,17,14,0,14,20,
